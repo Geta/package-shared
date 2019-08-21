@@ -27,7 +27,7 @@ Hardware assisted virtualization and data execution protection must be enabled i
 
 ### Configure Docker for Sample Project
 
-Right click sample project and select `Container support`.
+Right click sample project and select `Container Orchestrator Support`.
 
 ![add container support](docs/images/add-container-support.png)
 
