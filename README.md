@@ -27,7 +27,11 @@ Hardware assisted virtualization and data execution protection must be enabled i
 
 ### Configure Docker for Sample Project
 
-Right click sample project and select `Container support`. This will create a `Dockerfile` which contains a PowerShell script and a new project called `docker-compose`. The `docker-compose` project holds the server images configurations.
+Right click sample project and select `Container Orchestrator Support`.
+
+![add container support](docs/images/add-container-support.png)
+
+This will create a `Dockerfile` which contains a PowerShell script and a new project called `docker-compose`. The `docker-compose` project holds the server images configurations.
 
 The sample project should have a reference to the package project.
 
